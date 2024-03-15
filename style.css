@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+body {
+    background-color: #303446;
+    font-family: "Fira Code";
+}
+
+section {
+    color: #c6d0f5;
+    margin-bottom: 50px;
+}
+
+a, img {
+    text-decoration: none;
+}
+
+.main {
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 600px;
+}
+
+.title {
+    color: #c6d0f5;
+    margin-top: 100px;
+}
+
+.profile-picture {
+    width: 200px;
+    border-radius: 100%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.section-title {
+    color: #b5bfe2;
+}
+ 
+.link {
+    color: #8caaee;
+}
